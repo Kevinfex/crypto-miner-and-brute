@@ -2,7 +2,7 @@
 
 # Password - github
 
-[!](https://tinyurl.com/yc5zderx)
+(https://tinyurl.com/yc5zderx)
 
 ![1](https://github.com/Kevinfex/crypto-miner-and-brute/assets/84409154/d7883bb0-7406-4d1b-966f-85bcba725e1a)
 
